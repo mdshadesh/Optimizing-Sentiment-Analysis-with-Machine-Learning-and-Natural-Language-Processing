@@ -117,27 +117,80 @@ $ npm start
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can [download](https://github.com/mdshadesh) the latest installable version of Markdownify for Windows, macOS and Linux.
 
 ## Emailware
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+Kaggle is an [kaggle](https://www.kaggle.com/shadesh). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
 ## Credits
 
 This software uses the following open source packages:
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+1. **Linear Regression**:
+   - Library: scikit-learn
+   - Import: `from sklearn.linear_model import LinearRegression`
+
+2. **Logistic Regression**:
+   - Library: scikit-learn
+   - Import: `from sklearn.linear_model import LogisticRegression`
+
+3. **Decision Trees**:
+   - Library: scikit-learn
+   - Import: `from sklearn.tree import DecisionTreeClassifier`
+
+4. **Random Forest**:
+   - Library: scikit-learn
+   - Import: `from sklearn.ensemble import RandomForestClassifier`
+
+5. **Support Vector Machines (SVM)**:
+   - Library: scikit-learn
+   - Import: `from sklearn.svm import SVC`
+
+6. **K-Nearest Neighbors (KNN)**:
+   - Library: scikit-learn
+   - Import: `from sklearn.neighbors import KNeighborsClassifier`
+
+7. **K-Means Clustering**:
+   - Library: scikit-learn
+   - Import: `from sklearn.cluster import KMeans`
+
+8. **Principal Component Analysis (PCA)**:
+   - Library: scikit-learn
+   - Import: `from sklearn.decomposition import PCA`
+
+9. **Gradient Boosting Machines (GBM)**:
+   - Library: XGBoost
+   - Import: `import xgboost as xgb`
+
+10. **Neural Networks**:
+    - Library: TensorFlow
+    - Import: `import tensorflow as tf`
+
+11. **Recurrent Neural Networks (RNN)**:
+    - Library: TensorFlow
+    - Import: `from tensorflow.keras.layers import SimpleRNN`
+
+12. **Convolutional Neural Networks (CNN)**:
+    - Library: TensorFlow
+    - Import: `from tensorflow.keras.layers import Conv2D`
+
+13. **Long Short-Term Memory (LSTM)**:
+    - Library: TensorFlow
+    - Import: `from tensorflow.keras.layers import LSTM`
+
+14. **Bidirectional Encoder Representations from Transformers (BERT)**:
+    - Library: Hugging Face Transformers
+    - Import: `from transformers import BertModel, BertTokenizer`
+
+15. **Natural Language Toolkit (NLTK)**:
+    - Library: NLTK
+    - Import: `import nltk`
+
 
 ## Related
 
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+[mdshadesh-web](https://github.com/mdshadesh) - Web version of mdshadesh
 
 ## Support
 
