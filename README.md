@@ -121,7 +121,7 @@ You can [download](https://github.com/mdshadesh) the latest installable version 
 
 ## Emailware
 
-Kaggle is an [kaggle](https://www.kaggle.com/shadesh). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+Kaggle is an [kaggle](https://www.kaggle.com/shadesh). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <naimulhasanshadesh@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
 ## Credits
 
