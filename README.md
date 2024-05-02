@@ -194,13 +194,63 @@ This software uses the following open source packages:
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section p {
+            margin-bottom: 10px;
+        }
+        .support {
+            color: #f00;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Your Project Name</h1>
+    <div class="section">
+        <h2>Support</h2>
+        <p>If you need support or have any questions, you can reach out to:</p>
+        <ul>
+            <li><span class="support">Name:</span> Delowar Hossain</li>
+            <li><span class="support">GitHub:</span> <a href="https://github.com/mrdel56">mrdel56</a></li>
+            <li><span class="support">Email:</span> <a href="mailto:del118241@gmail.com">del118241@gmail.com</a></li>
+        </ul>
+    </div>
+    <div class="section">
+        <h2>Description</h2>
+        <p>Add your project description here.</p>
+    </div>
+    <div class="section">
+        <h2>Installation</h2>
+        <p>Add instructions on how to install or use your project.</p>
+    </div>
+    <div class="section">
+        <h2>License</h2>
+        <p>Add information about the license of your project.</p>
+    </div>
+</body>
+</html>
 
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
 ## You may also like...
 
