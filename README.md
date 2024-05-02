@@ -151,8 +151,8 @@ This software uses the following open source packages:
 
 ## You may also like...
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- [Pomolectron](https://github.com/shadesh) - A pomodoro app
+- [Correo](https://www.kaggle.com/shadesh) - A menubar/taskbar Gmail App for Windows and macOS
 
 ## License
 
@@ -160,9 +160,9 @@ MIT
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> [Naimul Hasan Shadesh]((https://mdshadesh.github.io/Portfolio-NHS-/)) &nbsp;&middot;&nbsp;
+> GitHub [@shadesh](https://mdshadesh) &nbsp;&middot;&nbsp;
+> Kaggle [@shadesh]((https://www.kaggle.com/shadesh))
 
 
 
